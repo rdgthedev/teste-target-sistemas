@@ -81,7 +81,7 @@ Segunda ida:
 
 > b) Evite usar funções prontas, como, por exemplo, reverse;
 
-**Resposta:** para efetuar utilizei o C# para desenvolver um algoritmo que inverte uma string. Para efetuar esse teste utilizei apenas a linguagem C# pura e negligenciei o uso de bibliotecas que possuem métodos que poderiam facilitar essa tarefa. 
+**Resposta:** para realizar esta questão utilizei a linguagem C# pura, pois conforme pedido no desafio, não utilizei nenhuma biblioteca que facilitasse a realização da tarefa.
 
 <i>[Invertendo uma string em C#](https://github.com/rdgthedev/teste-target-sistemas/blob/main/StringReverse/Program.cs)</i>
 
