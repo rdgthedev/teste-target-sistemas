@@ -34,20 +34,21 @@ imprimir(SOMA);
 > Descubra a lógica e complete o próximo elemento:
 
 
-a) 1, 3, 5, 7, <code>**9**</code>
+<a href="https://github.com/rdgthedev/teste-target-sistemas/blob/main/DescubraALogica/A.cs">a)</a> 1, 3, 5, 7, <code>**9**</code>
 
-b) 2, 4, 8, 16, 32, 64, <code>**128**</code>
+<a href="https://github.com/rdgthedev/teste-target-sistemas/blob/main/DescubraALogica/B.cs">b)</a> 2, 4, 8, 16, 32, 64, <code>**128**</code>
 
-c) 0, 1, 4, 9, 16, 25, 36, <code>**49**</code>
+<a href="https://github.com/rdgthedev/teste-target-sistemas/blob/main/DescubraALogica/C.cs">c)</a> 0, 1, 4, 9, 16, 25, 36, <code>**49**</code>
 
-d) 4, 16, 36, 64, <code>**100**</code>
+<a href="https://github.com/rdgthedev/teste-target-sistemas/blob/main/DescubraALogica/D.cs">d)</a> 4, 16, 36, 64, <code>**100**</code>
 
-e) 1, 1, 2, 3, 5, 8, <code>**13**</code>
+<a href="https://github.com/rdgthedev/teste-target-sistemas/blob/main/DescubraALogica/E.cs">e)</a> 1, 1, 2, 3, 5, 8, <code>**13**</code>
 
-f) 2,10, 12, 16, 17, 18, 19, <code>**200**</code>
+<a href="https://github.com/rdgthedev/teste-target-sistemas/blob/main/DescubraALogica/F.cs">f)</a> 2,10, 12, 16, 17, 18, 19, <code>**200**</code>
 
-
-<i>[Ilustrando as sequências acima em C#](https://github.com/rdgthedev/teste-target-sistemas/tree/main/DescubraALogica)</i>
+<br>
+<strong><i>Clique na letra para acessar o código da sequência.</i></strong>
+<br>
 
 ## Questão 4
 > Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
